@@ -14,6 +14,7 @@
 
 <p align="left">
 </p>
+![https://medium.com/@alcidesgabriel.ds](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![https://medium.com/@alcidesgabriel.ds](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
 
